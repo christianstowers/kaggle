@@ -1,2 +1,3 @@
 # kaggle
-This repo contains materials created for learning modules and competitions from Kaggle.com. This is in an effort to develop skills in machine learning.
+This repo contains materials created from learning modules
+and competitions on Kaggle.com. The machine learning journey begins.
